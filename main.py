@@ -9,7 +9,7 @@ app = FastAPI()
 otp_store = {}
 
 FROM_EMAIL = "ka2169389@gmail.com"
-APP_PASSWORD = "YOUR_APP_PASSWORD"
+APP_PASSWORD = "echx dvag nafp scsq"
 
 class EmailRequest(BaseModel):
     email: str
